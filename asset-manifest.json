@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/AttendanceAndTime/static/css/main.64f8e45f.css",
-    "main.js": "/AttendanceAndTime/static/js/main.d8ebf62d.js",
+    "main.js": "/AttendanceAndTime/static/js/main.36389707.js",
     "static/js/453.67e36a37.chunk.js": "/AttendanceAndTime/static/js/453.67e36a37.chunk.js",
     "index.html": "/AttendanceAndTime/index.html",
     "main.64f8e45f.css.map": "/AttendanceAndTime/static/css/main.64f8e45f.css.map",
-    "main.d8ebf62d.js.map": "/AttendanceAndTime/static/js/main.d8ebf62d.js.map",
+    "main.36389707.js.map": "/AttendanceAndTime/static/js/main.36389707.js.map",
     "453.67e36a37.chunk.js.map": "/AttendanceAndTime/static/js/453.67e36a37.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.64f8e45f.css",
-    "static/js/main.d8ebf62d.js"
+    "static/js/main.36389707.js"
   ]
 }
